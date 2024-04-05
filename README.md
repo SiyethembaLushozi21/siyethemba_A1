@@ -14,5 +14,5 @@ The utilization of GitHub and GitHub action in the app can be in many ways for t
 
 In git hub I could be able get my app to be visible for everyone to see and how I did my my app and what tool did I use for my app to be able to function and codes did I use to make the app function. The colour for the button is purple in the app so that it visible for users to able to and made the text so that it could be readable. The cover that I chose is related to the app topic name for users to understand that this is a history app and it related by using historical figures and not celebrities. The app that I created can only enter from ages 20 to 95 because. So if you try to enter the age below 20 and above 95 it won’t be able to show who share the same age with. 
 
-The app is saved in GitHub to able to send to people to able to view it. This is how I created the app and a further video will show how I created the app and demonstration. 
+The app is saved in GitHub to able to send to people to able to view it. This is how I created the app and a further video will show how I created the app and demonstration.  
 
